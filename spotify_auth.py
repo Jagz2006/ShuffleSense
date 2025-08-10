@@ -3,8 +3,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Spotify API credentials (replace with your own from Spotify Developer Dashboard)
-CLIENT_ID = "0133b16db4964b9b8a7e4c7b67951ecd"
-CLIENT_SECRET = "d43d419411ce4c2aa4e525d034f8c515"
+CLIENT_ID = "Client id"
+CLIENT_SECRET = "Client secret"
 REDIRECT_URI = "http://127.0.0.1:8080"
 
 # Required scope for reading and creating playlists
