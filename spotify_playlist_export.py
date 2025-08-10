@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # ---------- CONFIG ----------
-CLIENT_ID = "0133b16db4964b9b8a7e4c7b67951ecd"
-CLIENT_SECRET = "d43d419411ce4c2aa4e525d034f8c515"
+CLIENT_ID = "Client ID"
+CLIENT_SECRET = "Client Secret"
 REDIRECT_URI = "http://127.0.0.1:8080"
 
 SCOPE = "user-read-playback-state playlist-modify-public playlist-modify-private"
